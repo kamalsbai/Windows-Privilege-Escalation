@@ -1,9 +1,9 @@
-**COMMANDS FOR SYSTEM ENUMERATION** 
+__COMMANDS FOR SYSTEM ENUMERATION__
 
-**▪ systeminfo**        | - Hostname - OS Name - OS version - Others
-**▪ hostname**          | - Hostname
-**▪ ver**               | - Windows Version
-**▪ winver**            | - Graphical Windows Version
+▪ systeminfo        | - Hostname - OS Name - OS version - Others
+▪ hostname          | - Hostname
+▪ ver               | - Windows Version
+▪ winver            | - Graphical Windows Version
 
 
 
